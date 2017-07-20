@@ -1,5 +1,4 @@
-/* Jumper: Using an Arduino to animate:
-  Written by ScottC on 02/06/2012 */
+
 #include <Wire.h>
 #include "rgb_lcd.h"
 
