@@ -1,6 +1,8 @@
+ /*
  Source code derived from : 
  http://processing.org/learning/topics/sequential.html
  http://processing.org/discourse/beta/num_1267080062.html
+ */
 
 import processing.serial.*;
 Serial myPort;
