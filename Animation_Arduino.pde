@@ -1,14 +1,6 @@
-/* Jumper: Using an Arduino to animate
- Written by ScottC on 02/06/2012
- 
  Source code derived from : 
  http://processing.org/learning/topics/sequential.html
  http://processing.org/discourse/beta/num_1267080062.html
- 
- Pictures captured from:
- http://www.youtube.com/watch?v=h6nE8m74kDg      
- 
- ======================================================= */
 
 import processing.serial.*;
 Serial myPort;
